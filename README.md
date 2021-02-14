@@ -1,11 +1,7 @@
 ### Hi there 👋
-
-I'm **Jéssica Neves Machado**, but everyone calls me **Jay Jay** :)
-
+## I'm Jéssica Neves Machado, but everyone calls me **Jay Jay** :)
 I'm Full Stack Developer at @grupoboticario.
 
-### Hi there 👋
-## I'm Jéssica Neves Machado, but everyone calls me **Jay Jay** :)
 - I live in :brazil:, south :sunglasses::sunrise:
 - I have been working on Grupo Boticário as full stack developer :computer:
  
