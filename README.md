@@ -6,7 +6,7 @@
 - I have been working on Grupo Boticário as full stack developer :computer:
 
 ## Connect with me:
-<a href="www.linkedin.com/in/jessicanevesmachado/" target="_blank">
+<a href="https://www.linkedin.com/in/jessicanevesmachado/" target="_blank">
 <img align="center" alt="Icone do linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
 </a>
 <a href="https://www.instagram.com/jessicanevesmachado/" target="_blank">
