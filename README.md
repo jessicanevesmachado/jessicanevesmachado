@@ -13,7 +13,7 @@
 <img align="center" alt="Icone do Instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" style="max-width:100%;">
 </a>
 <a href="https://medium.com/@jessicanevesmachado" target="_blank">
-<img align="center" alt="Icone do Medium" height="30" width="40" src="https://img1.gratispng.com/20180625/tbj/kisspng-medium-logo-publishing-blog-business-5b314661c4bb51.2060332615299559378058.jpg" style="max-width:100%;">
+<img align="center" alt="Icone do Medium" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/390px-Medium_logo_Monogram.svg.png" style="max-width:100%;">
 </a>
 
 
