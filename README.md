@@ -3,7 +3,7 @@
 
 
 - I live in :brazil:, south :sunglasses::sunrise:
-- I have been working on Grupo Boticário as full stack developer :computer:
+- I have been working on Grupo Boticário as Full Stack Developer :computer:
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/jessicanevesmachado/" target="_blank">
