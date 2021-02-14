@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm **Jéssica Neves Machado**, 
+but everyone calls me **Jay Jay** 
+
 <!--
 **jessicanevesmachado/jessicanevesmachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
