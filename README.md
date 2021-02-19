@@ -16,6 +16,16 @@
 <img align="center" alt="Icone do Medium" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/390px-Medium_logo_Monogram.svg.png" style="max-width:100%;">
 </a>
 
+## My Skill
+* Html
+* Css
+* JavaScript
+* NodeJs
+* C#
+* PHP
+* ReactJs
+* AWS
+* Azure
 
 <!--
 **jessicanevesmachado/jessicanevesmachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
