@@ -16,7 +16,7 @@
 <img align="center" alt="Icone do Medium" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/390px-Medium_logo_Monogram.svg.png" style="max-width:100%;">
 </a>
 
-## My Skill
+## My Skills
 * Html
 * Css
 * JavaScript
