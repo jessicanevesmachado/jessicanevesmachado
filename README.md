@@ -6,7 +6,7 @@
 - I have been working on Grupo Boticário as Full Stack Developer :computer:
 
 
-<a href="#" target="_blank">Follow me
+<a href="#" >Follow me
 <img align="center" alt="Follow me" height="30" width="40" src="https://images.squarespace-cdn.com/content/v1/5e0530c0bb8b751c65183564/1582081244255-CWK5F4UCWR9CDIOD1YDH/ke17ZwdGBToddI8pDm48kGj-ZUduPHN9-oYEn-q4NR9Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIXEem5uZ-mO4ghu3gX0UMM2nm8E4XNkGojVf0rn-EbU0/Github.png?format=1500w" style="max-width:100%;">
 </a>
 
